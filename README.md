@@ -101,5 +101,5 @@ exit | Exits the shell
 ![Image of Flowchart](https://i.imgur.com/WcN0ccr.jpg)
 
 ### Contributors
-- [Ini. Duff |Caleb](https://github.com/duffigoogle)
-- []
+- [stephen Ohaeri |udochukwu](https://github.com/stephen4018)
+- [victor Ayoebi]
